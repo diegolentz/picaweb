@@ -1,0 +1,17 @@
+#1  {
+    background-color: #000000;
+}
+body{
+    background-color: #000000;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
+    line-height: 5rem;
+    font-size: 2rem;
+    font-family: 'Lato', sans-serif;
+}
