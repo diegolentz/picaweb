@@ -1,8 +1,22 @@
-#1  {
-    background-color: #000000;
+
+.body{
+   background-color: #000000;
 }
-body{
-    background-color: #000000;
+
+.grid{
+font-style: italic;
+color: #fff;
+}
+.h1{
+    text-align: center;
+}
+
+.p{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
 }
 
 footer{
